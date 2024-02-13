@@ -19,12 +19,12 @@
             "type": "image/png"
         },
         {
-            "src": "/img/icons//favicon-16x16.png",
+            "src": "/img/icons/favicon-16x16.png",
             "sizes": "16x16",
             "type": "image/png"
         },
         {
-            "src": "/img/icons//favicon-16x16.png",
+            "src": "/img/icons/favicon-32x32.png",
             "sizes": "32x32",
             "type": "image/png"
         }
@@ -34,6 +34,6 @@
     "display": "standalone",
     "orientation": "portrait",
     "lang": "en-US",
-    "scope": "./",
-    "start_url": "http://127.0.0.1:5500/"
+    "scope": "/",
+    "start_url": "/"
 }
