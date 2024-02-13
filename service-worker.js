@@ -5,17 +5,17 @@ const cacheName = 'v1';
 const urlsToCache = [
   './',
   './offline.html', // Adding offline.html to the cache list
-  './img/logo.png',
-  './img/icons/android-chrome-192x192.png',
-  './img/icons/android-chrome-256x256.png',
-  './img/icons/apple-touch-icon.png',
-  './img/icons/browserconfig.xml',
-  './img/icons/favicon-16x16.png',
-  './img/icons/favicon-32x32.png',
-  './img/icons/favicon.ico',
-  './img/icons/mstile-150x150.png',
-  './img/icons/safari-pinned-tab.svg',
-  './styles/style.css',
+  'img/logo.png',
+  'img/icons/android-chrome-192x192.png',
+  'img/icons/android-chrome-256x256.png',
+  'img/icons/apple-touch-icon.png',
+  'img/icons/browserconfig.xml',
+  'img/icons/favicon-16x16.png',
+  'img/icons/favicon-32x32.png',
+  'img/icons/favicon.ico',
+  'img/icons/mstile-150x150.png',
+  'img/icons/safari-pinned-tab.svg',
+  'styles/style.css',
 ];
 
 // Call Install Event
